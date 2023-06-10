@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Myfamily</string>
+    <string name="security">security</string>
+    <string name="sos">SOS</string>
+    <string name="text_sos">in case of emergency , keep telling family members to contact me</string>
+    <string name="guard">GUARD</string>
+    <string name="text_guard">in case of emergency , keep telling family members to contact me</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
